@@ -7,7 +7,20 @@ The purpose of this project however is not to create an accurate representation,
 
 Motivation: This project is solely intended for Algorithm learning purposes.
 
-Data Preparation: 
+### Tools Used: 
+I have used Octave Version 5.2 to do this project, but the same can also be done using MATLAB, with some possibility of minor changes in the syntax, please check if you face any difficulties while using the code in MATLAB.
+
+### Files:
+1) D1.txt - Prepared Data file - Text file.
+2) Life_Expec_Calc.m - main file that runs the program.
+3) costFunction.m - Code for the cost function calculator function.
+4) featureNorm.m - Code for the feature normalization function.
+5) gD_Calc.m - Function to calculate the Gradient descent.
+6) normalEquation.m - Function to calculate the prediction using the normal equation.  
+
+### Steps:
+
+#### 1)Data Preparation: 
 The data for this project was collected from different sources as a single source with all neccessary data was unavailable.
 The data sources are:
 1) https://www.who.int
